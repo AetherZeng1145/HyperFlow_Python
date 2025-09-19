@@ -22,3 +22,5 @@ HyperFlow is a Python-based virtual wind tunnel simulator that can render aerody
 ## 使用前注意 Before You Start
 - 使用前请安装 Pygame PyOpenGL PyOpenGL_accelerate
 - Please install the following dependencies: Pygame, PyOpenGL, PyOpenGL_accelerate
+- 我更建议您使用1.0.2版本，功能更多更完善
+- I suggest you use version 1.0.2, which has more and more comprehensive features
